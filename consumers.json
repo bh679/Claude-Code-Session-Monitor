@@ -1,0 +1,62 @@
+[
+  {
+    "project": "Claude Management Dashboard",
+    "repo": "bh679/Claude-Management-Dashboard",
+    "local_path": "~/Projects/Claude-Management-Dashboard"
+  },
+  {
+    "project": "Claude Max Usage Analytics",
+    "repo": "bh679/Claude-Max-Usage-Analytics",
+    "local_path": "~/Projects/Claude-Management-Dashboard/Claude-Max-Usage-Analytics"
+  },
+  {
+    "project": "Chess",
+    "repo": "bh679/chess-project",
+    "local_path": "~/Projects/Chess"
+  },
+  {
+    "project": "House Sitting Agent",
+    "repo": "bh679/house-sitting-agent",
+    "local_path": "~/Projects/House Sitting Application Agent"
+  },
+  {
+    "project": "Weekly Blog",
+    "repo": "bh679/weekly-blog",
+    "local_path": "~/Projects/weekly-blog"
+  },
+  {
+    "project": "EPA Ideas",
+    "repo": "bh679/ideas",
+    "local_path": "~/Projects/Ideas"
+  },
+  {
+    "project": "COO",
+    "repo": "bh679/coo-agent",
+    "local_path": "~/Projects/COO"
+  },
+  {
+    "project": "Claude Code Session Monitor",
+    "repo": "bh679/Claude-Code-Session-Monitor",
+    "local_path": "~/Projects/Claude-Code-Session-Monitor"
+  },
+  {
+    "project": "Claude Templates",
+    "repo": "bh679/claude-templates",
+    "local_path": "~/Projects/Claude Templates"
+  },
+  {
+    "project": "JudgeGPT",
+    "repo": "bh679/JudgeGPT",
+    "local_path": "~/Projects/JudgeGPT"
+  },
+  {
+    "project": "Other Sub Agents",
+    "repo": "bh679/other-sub-agents",
+    "local_path": "~/Projects/other-sub-agents"
+  },
+  {
+    "project": "AutoClaude",
+    "repo": "bh679/AutoClaude",
+    "local_path": "~/Projects/AutoClaude"
+  }
+]
